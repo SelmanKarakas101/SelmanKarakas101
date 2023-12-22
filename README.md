@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Spring Boot<br>🎯 
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Spring Boot 🍃<br>
 
 ###
 
