@@ -16,15 +16,13 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Spring Boot 🍃<br>
-<p align="left">- 📫 How to reach me **selmankarakas1@hotmail.com**<br>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Spring Boot 🍃<br>📫 How to reach me **selmankarakas1@hotmail.com**<br></p>
 
 ###
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=selmankarakas101&show_icons=true&locale=en&layout=compact" alt="selmankarakas101" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=selmankarakas101&" alt="selmankarakas101" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=selmankarakas101&show_icons=true&locale=en&layout=compact" alt="selmankarakas101" / <br>
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=selmankarakas101&" alt="selmankarakas101" /></p>
+  
 ###
 
 <h2 align="left">I code with</h2>
