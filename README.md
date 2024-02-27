@@ -1,6 +1,6 @@
 ###
 
-<img src="https://raw.githubusercontent.com/SelmanKarakas101/SelmanKarakas101/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/SelmanKarakas/SelmanKarakas101/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -16,11 +16,11 @@
 
 ###
 
-<p align="left" >✨ Creating bugs since 2022<br>📚 I'm currently learning Spring Boot 🍃<br>📫 How to reach me <a href="mailto:selmankarakas1@hotmail.com">selmankarakas1@hotmail.com</a><br></p>
+<p align="left" >✨ Creating bugs since 2022<br>📚 I'm currently learning Spring Boot 🍃<br>📫 How to reach me <a href="mailto:selman.karakas@outlook.com">selman.karakas@outlook.com</a><br></p>
 
 ###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=selmankarakas101&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="selmankarakas101" /</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=selmankarakas&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="selmankarakas" /</p>
   
 ###
 
